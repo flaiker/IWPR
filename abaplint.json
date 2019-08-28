@@ -5,5 +5,7 @@
     "skipGeneratedPersistentClasses": true,
     "skipGeneratedFunctionGroups": true,
     "applyUnspecifiedRules": true
+  },
+  "rules" {
   }
 }
