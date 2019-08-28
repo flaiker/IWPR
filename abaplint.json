@@ -6,6 +6,6 @@
     "skipGeneratedFunctionGroups": true,
     "applyUnspecifiedRules": true
   },
-  "rules" {
+  "rules": {
   }
 }
