@@ -1,0 +1,9 @@
+{
+  "global": {
+    "version": "v740sp08",
+    "skipGeneratedGatewayClasses": true,
+    "skipGeneratedPersistentClasses": true,
+    "skipGeneratedFunctionGroups": true,
+    "applyUnspecifiedRules": true
+  }
+}
