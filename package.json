@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "abaplint --version && abaplint \"src/**/*.*\"",
+    "test": "abaplint --version && abaplint \"src/**/*.*\""
   },
   "devDependencies": {
     "abaplint": "^1.7.23"
