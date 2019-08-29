@@ -1,4 +1,4 @@
-class ZCL_Z_ABAPGIT_TEST_MPC definition
+class /ABC/CL_Z_ABAPGIT_TEST_MPC definition
   public
   inheriting from /IWBEP/CL_MGW_PUSH_ABS_MODEL
   create public .
@@ -15,7 +15,7 @@ ENDCLASS.
 
 
 
-CLASS ZCL_Z_ABAPGIT_TEST_MPC IMPLEMENTATION.
+CLASS /ABC/CL_Z_ABAPGIT_TEST_MPC IMPLEMENTATION.
 
 
   method DEFINE.
